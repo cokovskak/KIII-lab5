@@ -48,5 +48,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: cokovskak/kiii-demo-01:latest
+          tags: kristina212006/kiii-lab5
+
   
