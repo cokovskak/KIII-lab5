@@ -48,6 +48,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: kristina212006/kiii-lab5
+          tags: kristina212006/kiii-lab5:latest
 
   
